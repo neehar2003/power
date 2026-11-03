@@ -1,0 +1,2 @@
+﻿using FindPower;
+Power.Run();
